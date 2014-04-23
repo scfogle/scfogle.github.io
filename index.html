@@ -4,8 +4,10 @@ title: Jekyll Test Site
 ---
 
 <section class="list postlist">
-	<h1>Advanced Web Design jekyll site</h1>
+	<h1>Advanced Web Design Projects</h1>
+	{% include nav-projects.html %}
 	
+	<h1>Advanced Web Design Class updates</h1>
 	{% for post in site.posts %}
 	<article>
 		<time>{{ post.date | date_to_string }}</time>
@@ -18,4 +20,3 @@ title: Jekyll Test Site
 	{% endfor %}
 </section>
 
-{% include nav-projects.html %}
