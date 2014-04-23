@@ -4,8 +4,6 @@ layout: projects
 project: enoch-pratt
 ---
 
-# Hello Enoch Pratt
+# Enoch Pratt Library Website project
 
-lorem ipsum 
-
-![my enoch cat](http://placekitten.com/300/300)
+[Click to view Pratt Library Web site Project](http://scfogle.github.io/liberryproject/)
