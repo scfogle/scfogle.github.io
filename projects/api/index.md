@@ -8,4 +8,4 @@ project: API Project
 
 incorporated API from SeedFinder.eu
 
-[Click to view API Project](http://scfogle.github.io/liberryproject/)
+[Click to view API Project](http://scfogle.github.io/project2/)
