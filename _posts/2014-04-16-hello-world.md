@@ -1,14 +1,12 @@
 ---
-title: "Hello World"
+title: "Library Project"
 date: 2014-04-16 18:27:30
 categories:
 - fit
 ---
 
-# Dear World
+# Library Project
 
-Hello [Internet](http://google.com)
+Started [Library Project](http://scfogle.github.io/liberryproject/)
 
-This is my cat:
 
-![My Cat](http://placekitten.com/300/300)
